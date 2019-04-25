@@ -2,12 +2,10 @@
   "name": "final",
   "version": "1.0.0",
   "description": "final project",
-  "main": "trivia.html",
+  "main": "trivia_service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node trivia_service.js",
-    "start": "questions.js",
-    "start": "quiz.js"
+    "start": "node trivia_service.js"
   },
   "repository": {
     "type": "git",

@@ -50,7 +50,7 @@ function quiz_Category(subject) {
 
 	let file = fs.readFileSync("categories.txt", "utf8");
 	let lines = file.split("\n");
-	for (let i = 0; i < lines.length, i++) {
+	for (let i = 0; i < lines.length; i++) {
 		let contents = lines[i].split(",");
 		if (contents[0] == subject) {
 			let question = {};

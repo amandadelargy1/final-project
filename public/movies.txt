@@ -1,0 +1,18 @@
+Geography, Which ocean lies on the east coast of the United States, Eastern, Indian, Pacific, Atlantic, Atlantic
+Geography, Which is the world’s highest mountain, K2, Makalu, Mount Everest, Kilimanjaro, Mount Everest
+Geography, How many Great Lakes are there, Five, Four, Three, Six, Five
+Geography, Which of the following countries does not border France, Germany, Spain, Netherlands, Italy, Netherlands
+Geography, Which is the longest river in the world, Congo River, Amazon River, Yellow River, Nile River, Nile River
+Geography, Which is the largest body of water, Indian Ocean, Atlantic Ocean, Pacific Ocean, Artic Ocean, Pacific Ocean
+Sports, Which of these famous runners is known as the fastest man alive, Carl Lewis, Usain Bolt, Roger Bannister, Michael Johnson, Usain Bolt
+Sports, Which of these words is NOT a term used in Cricket, Fumble, Wicket, Crease, Bowler, Fumble
+Sports, How many Olympic medals has Micheal Phelps won in his career, Twenty-four, Thirty-two, Twenty-eight, Twenty, Twenty-eight
+Sports, Which NFL team has won the most Super Bowls, New York Giants, Pittsburgh Steelers, Denver Broncos, Dallas Cowboys, Pittsburgh Steelers
+Sports, Which of the following is NOT a sport in the summer olympics, Archery, Weightlifting, Taekwondo, Bowling, Bowling
+Sports, What race is NOT considered part of The Grand Slam of NASCAR? Indy 500, Daytona 500, Coca-Cola 600, Winston 500, Indy 500
+Movies, What did Forest Gump’s mother say “Life was like”, A lollipop, A box of chocolates, A handful of roses, A bathtub full of shrimp, A box of chocolates
+Movies, Which car did belonged to the main character in the first Transformers movie, Jazz, Optimus Prime, Ratchet, Bumblebee, Bumblebee
+Movies, Who was Dominic’s younger sister in the Fast and Furious movies, Mia, Jessie, Letty, Cara, Mia
+Movies, What was the first movie in the Marvel Cinematic Universe, The Avengers, Batman, Iron Man, Spiderman, Iron Man
+Movies, Where is the Temple of Doom in “Indiana Jones and the Temple of Doom”, China, India, Africa, South America, India
+Movies, Which of these last names does Princess Leia NOT have a family connection to, Skywalker, Amidala, Organa, Fett, Fett

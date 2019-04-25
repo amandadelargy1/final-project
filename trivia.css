@@ -1,0 +1,103 @@
+h1 {
+	font-size: 60pt;
+	font-style: italic;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 3px 3px #013571;
+	color: #F5F5F6;
+	border-color: #013571;
+	border-style: double;
+	border-width: 10pt;
+}
+
+h3 {
+	font-size: 30pt;
+	text-align: center;
+	color: #013571;
+}
+
+#takequiz {
+	margin-left: 33%;
+	font-size: 24pt;
+}
+
+#input {
+	font-size: 24pt;
+	padding-left: 150px;
+	background-color: #013571;
+	color: white;
+}
+
+
+body {
+	background-color: #BFF4F4;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100px;
+	font-family: Impact;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	padding: 110px;
+}
+
+#images {
+	margin-left: 50px;
+}
+
+.message {
+	text-align: center;
+}
+
+#title {
+	font-size: 30pt;
+	text-align: center;
+	color: #013571;
+}
+
+#question {
+	font-size: 22pt;
+	text-align: center;
+	color: white;
+	background: #013571;
+	border-radius: 20px;
+	margin: 10px 0 10px 0;
+}
+
+.option {
+	width: 470px;
+	display: inline-block;
+	padding: 10px 0 10px 15px;
+	vertical-align: middle;
+	background: rgba(255,255,255, 0.5);
+	margin: 10px 0 10px 10px;
+	color: #013571;
+	border-radius: 20px;
+	font-size: 12pt;
+}
+
+#next, #submit {
+	font-size: 22pt;
+	color: #013571;
+	width: 100px;
+	height: 35px;
+	border-radius: 20px;
+	margin: 10px;
+	float: right;
+}
+
+#numCorrect {
+	font-size: 22pt;
+	color: #013571;
+}
+
+
+
+
+
+
+
+
+

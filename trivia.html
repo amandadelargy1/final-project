@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Amanda's Quiz</title>
+		<script type="text/javascript" src="quiz.js"></script>
+		<script src="questions.js"></script>
+		<link rel="stylesheet" type="text/css" href="trivia.css">
+	</head>
+	<body>
+		<h1>How Smart Are You?</h1>
+		<h3 id="message">Here's a quiz to test your knowledge on different categories:</h3>
+		<div id="input">
+			<label class="category"><button type="button" id="takequiz">Press to take a quiz</button></label>
+		</div>
+		<div id="images">
+			<img src="world.png" alt="world">
+			<img src="sports.png" alt="sports">
+			<img src="movie.gif" alt="movies">
+		</div>
+		<div id="container">
+			<div id="title"></div>
+			<div id="question"></div>
+			<label class="option"><input type="radio" name="option" value="1" /><span id="opt1"></span></label>
+			<label class="option"><input type="radio" name="option" value="2" /><span id="opt2"></span></label>
+			<label class="option"><input type="radio" name="option" value="3" /><span id="opt3"></span></label>
+			<label class="option"><input type="radio" name="option" value="4" /><span id="opt4"></span></label>
+			<div id="next"></div>
+			<div id="numCorrect"></div>
+			<div id="submit"></div>
+		</div>
+
+	</body>
+	</html>
+
+

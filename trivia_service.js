@@ -48,7 +48,7 @@ function quiz_Category(subject) {
 	let json = {};
 	let questions = [];
 
-	let file = fs.readFileSync("questions.js", "utf8");
+	let file = fs.readFileSync("categories.txt", "utf8");
 	let lines = file.split("\n");
 	for (let i = 0; i < lines.length; i++) {
 		let contents = lines[i].split(",");

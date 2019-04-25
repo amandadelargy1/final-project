@@ -4,8 +4,10 @@
   "description": "final project",
   "main": "quiz.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "node trivia_service.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node trivia_service.js",
+    "start": "questions.js",
+    "start": "quiz.js"
   },
   "repository": {
     "type": "git",
